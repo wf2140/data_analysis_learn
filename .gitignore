@@ -1,0 +1,7 @@
+# 不忽略特定文件夹
+*
+!.gitignore
+!/matplotlibxxx/
+!/pandasxxx/
+!/sales trends,_customer behaviour, and identify growth opportunities/
+!/xxsql/
