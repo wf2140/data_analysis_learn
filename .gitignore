@@ -1,5 +1,5 @@
 # 不忽略特定文件夹
-*
+/*
 !.gitignore
 !/matplotlibxxx/
 !/pandasxxx/
